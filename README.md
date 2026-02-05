@@ -24,8 +24,3 @@ This repository contains a RESTful API built to demonstrate backend development 
 | POST | /api/items     | Create a new item     |
 | PUT  | /api/items/:id | Update an item        |
 | DELETE | /api/items/:id | Delete an item        |
-
-## ⚙️ Installation & Setup
-1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
