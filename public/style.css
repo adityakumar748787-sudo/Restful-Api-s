@@ -1,0 +1,25 @@
+.user{
+    background-color:maroon;
+    text-align: center;
+}
+.post{
+    background-color:white;
+    height: 200px;
+    width: 300px;
+    
+}
+.content{
+    background-color: chartreuse;
+}
+body{
+    background-color: bisque;
+    /* text-align: center; */
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+a{
+    text-align: center;
+}
