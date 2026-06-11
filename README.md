@@ -2,7 +2,7 @@
 
 This repository contains a RESTful API built to demonstrate backend development concepts using standard HTTP methods and REST principles. The project focuses on clean architecture, modular routing, and scalable design, making it suitable for real-world applications and learning purposes.
 
-## 🚀 Features
+ # 🚀 Features
 - RESTful architecture
 - CRUD operations (Create, Read, Update, Delete)
 - Proper use of HTTP methods (GET, POST, PUT, PATCH, DELETE)
@@ -10,7 +10,7 @@ This repository contains a RESTful API built to demonstrate backend development 
 - Clean and maintainable codebase
 - Easy to integrate with frontend or mobile applications
 
-## 🛠 Tech Stack
+ # 🛠 Tech Stack
 - Backend: Node.js / Express *(or replace with your stack)*
 - Database: MongoDB / MySQL / PostgreSQL *(if applicable)*
 - API Testing: Postman
