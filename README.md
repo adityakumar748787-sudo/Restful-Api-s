@@ -16,7 +16,7 @@ This repository contains a RESTful API built to demonstrate backend development 
 - API Testing: Postman
 - Version Control: Git & GitHub
 
-## 📌 API Endpoints (Example)
+# 📌 API Endpoints (Example)
 | Method | Endpoint        | Description           |
 |------|----------------|-----------------------|
 | GET  | /api/items     | Get all items         |
